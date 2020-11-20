@@ -1,3 +1,4 @@
+/*style for logos*/
 .logo img{
     display: block;
     margin-left: auto;
@@ -8,4 +9,23 @@
 .logo p{
     text-align: center;
     font-size: 40px;
+}
+/*style for the rows of brands*/
+.brandrows{
+    width: 25%;
+    height: 10%;
+    margin: 2%;
+    border: solid 6px;
+    position: relative;
+    display: inline-table;
+}
+.brandrows img{
+    width: 80%;
+    height: 80%;
+    margin: 10%;
+    position: relative;
+    align-self: center;
+}
+.brandrows p{
+    text-align: center;
 }
