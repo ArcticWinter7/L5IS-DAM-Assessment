@@ -48,3 +48,18 @@
 .inputform h1{
     text-align: center;
 }
+
+/*Style for footer*/
+.footerstyle{
+    width: 100%;
+    height: 80px;
+    background-color: aquamarine;
+}
+.footerstyle img{
+    height: 100%;
+    width: height;
+    position: relative;
+    display: inline-block;
+    margin-left: auto;
+    margin-right: auto;
+}
