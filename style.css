@@ -10,11 +10,12 @@
     text-align: center;
     font-size: 40px;
 }
+
 /*style for the rows of brands*/
 .brandrows{
-    width: 25%;
+    width: 32%;
     height: 10%;
-    margin: 2%;
+    margin: 0%;
     border: solid 6px;
     position: relative;
     display: inline-table;
@@ -27,5 +28,23 @@
     align-self: center;
 }
 .brandrows p{
+    text-align: center;
+}
+
+/*style for the input form*/
+.inputform textarea{
+    margin-left: auto;
+    margin-right: auto;
+    position: relative;
+    left: 30%;
+    width: 40%;
+}
+.inputform button{
+    position: relative;
+    left: 30%;
+    width: 40%; 
+    height: 60px;
+}
+.inputform h1{
     text-align: center;
 }
